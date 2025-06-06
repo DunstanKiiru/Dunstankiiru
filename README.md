@@ -34,7 +34,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftaccess/ba0000" height="30" alt="access logo" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftaccess.svg" height="30" alt="microsoft access logo" />
+
 </div>
 
 
