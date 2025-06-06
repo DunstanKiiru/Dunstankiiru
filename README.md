@@ -11,12 +11,12 @@
 
 ###
 
-<img align="right" height="150" src="give fhttps://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ###
 
 <div align="left">
-  <!-- Main stack -->
+  <!-- Tech stack icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo" />
@@ -43,27 +43,21 @@
 ## 🚀 Projects
 
 ### 🌾 Farm Management System
-
 A full-featured **Farm Management System** built with **Microsoft Access**:
-
 - Animal Records Management
 - Vaccination Tracking
 - Insemination & Birth Tracking
 - Expenses & Reporting Dashboard
 
 ### 🛍️ Laravel Marketplace
-
 A Laravel 12 Marketplace with:
-
 - **M-Pesa** Payment Integration
 - Client & Nanny Registration System
 - Location-based Search (Nairobi County)
 - Membership Features with Pay-per-View Contacts
 
 ### ⚛️ React Single Page Apps
-
 Modern React SPAs built using React + Vite:
-
 - **Expense Tracker**  
 - **Bot Battlr**  
 - **Ramen Rater**
