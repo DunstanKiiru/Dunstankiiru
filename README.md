@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=43e97b,38f9d7&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff" />
+<img align="center" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <h2 align="left">Hi 👋! My name is Dunstan Kiiru and I'm a Fullstack Developer, from Kenya 🇰🇪</h2>
 
@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ###
 
