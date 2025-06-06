@@ -1,4 +1,4 @@
-<img align="center" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="center" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <h2 align="left">Hi 👋! My name is Dunstan Kiiru and I'm a Fullstack Developer, from Kenya 🇰🇪</h2>
 
