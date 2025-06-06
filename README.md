@@ -14,7 +14,11 @@
 
 
 ---
+## 📊 Profile Views
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dunstankiiru&style=flat-square&color=blue" alt="Profile views" />
+</p>
 ---
 
 ## 🚀 Projects
@@ -127,9 +131,3 @@ Modern React SPAs built using React + Vite:
 </p>
 
 ---
-
-## 📊 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dunstankiiru&style=flat-square&color=blue" alt="Profile views" />
-</p>
