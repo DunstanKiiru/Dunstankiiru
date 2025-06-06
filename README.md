@@ -34,7 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Microsoft_Access_2019_logo.svg/120px-Microsoft_Access_2019_logo.svg.png" height="30" alt="microsoft access logo" />
 
 
 
