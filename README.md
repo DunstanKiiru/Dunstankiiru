@@ -16,10 +16,9 @@
 ###
 
 <div align="left">
-  <!-- Tech stack icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo" />
+  <img src="https://cdn.simpleicons.org/laravel/ff2d20" height="30" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
@@ -35,8 +34,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftaccess/microsoftaccess-original.svg" height="30" alt="access logo" />
+  <img src="https://cdn.simpleicons.org/microsoftaccess/ba0000" height="30" alt="access logo" />
 </div>
+
 
 ###
 
