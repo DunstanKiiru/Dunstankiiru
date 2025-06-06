@@ -76,7 +76,7 @@ Modern React SPAs built using React + Vite:
 
 <br />
 
-<div align="center">
+<div>
   <img src="https://github-profile-trophy.vercel.app/?username=Dunstankiiru&theme=dracula&column=3&margin-w=8&margin-h=8&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
